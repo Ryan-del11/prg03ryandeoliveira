@@ -73,4 +73,3 @@ O escopo deste documento abrange as funcionalidades e características do Sistem
 *   **RN01: Prevenção de Conflitos (Overbooking):** O sistema é estritamente proibido de permitir dois agendamentos confirmados para o mesmo recurso físico (ex: mesma mesa, mesma sala) ou mesmo prestador humano em horários que se sobreponham.
 *   **RN02: Cálculo de Encaixe Lógico:** Um bloco de horário só é considerado "disponível" se houver tempo hábil entre o início pretendido e o próximo compromisso do prestador (ou o horário de fechamento do negócio), sendo este tempo livre maior ou igual à duração do serviço selecionado.
 *   **RN03: Janela Limite de Cancelamento:** O Cliente só pode efetuar o cancelamento de forma autônoma pelo sistema com uma antecedência mínima configurada pelo Gerente (ex: até 4 horas antes do evento). Após esse prazo, o cancelamento é bloqueado no aplicativo.
-# prg03ryandeoliveira
